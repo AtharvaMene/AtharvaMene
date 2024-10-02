@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Master Of Computer Applications**
 
-- 📫 How to reach me **atharvamene@gmai.com**
+- 📫 How to reach me **atharvamene@gmail.com**
 
 - ⚡ Fun fact **Fluent in both frontend and backend—basically a full-stack wizard in code!**
 
