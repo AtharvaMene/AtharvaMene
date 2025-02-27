@@ -38,9 +38,9 @@ jobs:
         with:
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ AtharvaMene }}
 
-          # Define the output files and their configurations
+          # Define the output files and their configurationss
 
           outputs: |
 
