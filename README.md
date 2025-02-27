@@ -71,7 +71,7 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtharvaMene&show_icons=true&locale=en" alt="AtharvaMene" />
 </p>
 
-![Snake animation](https://github.com/AtharvaMene/AtharvaMene/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AtharvaMene/AtharvaMene/blob/output/github-snake-dark.svg)
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaMene&" alt="AtharvaMene" />
