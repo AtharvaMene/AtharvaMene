@@ -119,5 +119,5 @@ Full Stack Developer focused on Java, Spring Boot, React, and scalable web appli
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtharvaMene/AtharvaMene/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AtharvaMene/AtharvaMene/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
