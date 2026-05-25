@@ -104,8 +104,8 @@ Full Stack Developer focused on Java, Spring Boot, React, and scalable web appli
 
 <p align="left">
 
-<a href="https://linkedin.com/in/atharvamene" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/atharvamene/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
 </a>
 
 <a href="https://instagram.com/atharva_mene" target="blank">
@@ -116,12 +116,8 @@ Full Stack Developer focused on Java, Spring Boot, React, and scalable web appli
 
 ---
 
-## 📫 Contact
-
-- Email: **atharvamene@gmail.com**
-
----
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AtharvaMene/AtharvaMene/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AtharvaMene/AtharvaMene/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
